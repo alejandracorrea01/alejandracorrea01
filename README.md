@@ -1,81 +1,88 @@
-# ALEJANDRA CORREA
+<p align="center">
+  <img src="./assets/alejandra-banner.png" width="100%" />
+</p>
 
-### DIGITAL CREATOR
+<br>
 
-`UX/UI DESIGN` · `CREATIVE TECHNOLOGY` · `DIGITAL CREATION` · `AI`
+<p align="center">
+  <img src="https://img.shields.io/badge/DIGITAL%20CREATOR-0B0B0C?style=for-the-badge&labelColor=0B0B0C&color=FF2D20" />
+</p>
 
----
+<br>
 
-## 01 / ABOUT
+<!-- GITHUB SNAKE -->
 
-I'm a Digital Creation student exploring the intersection between  
-design, technology and digital experiences.
+<p align="center">
+  <img src="./assets/github-snake-red.gif" width="100%" />
+</p>
 
-I enjoy turning ideas into visual and interactive experiences  
-through design, code and emerging technologies.
-
----
-
-## 02 / SELECTED WORK
-
-### ARCHIVO SONORO
-
-Digital exploration in HTML focused on sound, visual language and interaction.
-
-**HTML · CSS**
-
-[VIEW REPOSITORY →](https://github.com/alejandracorrea01/Archivo-Sonoro-1)
+<br>
 
 ---
 
-### TALLER GIT
+<h2 align="center">About me</h2>
 
-Academic exploration of Git, GitHub, branches, commits and version control.
+<p align="center">
+  Digital Creation student at Universidad El Bosque.
+  <br>
+  Interested in UX/UI, visual design and digital experiences.
+</p>
 
-**GIT · GITHUB**
-
-[VIEW REPOSITORY →](https://github.com/alejandracorrea01/taller-git)
-
----
-
-## 03 / TOOLKIT
-
-`HTML` · `CSS` · `JAVASCRIPT` · `FIGMA`  
-`GIT` · `GITHUB` · `AI TOOLS` · `VS CODE`
+<br>
 
 ---
 
-## 04 / CURRENTLY BUILDING
+<h2 align="center">Technologies</h2>
 
-- DIGITAL CREATION PROJECTS
-- UX/UI EXPERIENCES
-- CREATIVE CODING
-- AI EXPERIMENTS
+<p align="center">
 
----
+<img src="https://img.shields.io/badge/HTML5-0B0B0C?style=for-the-badge&logo=html5&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/CSS3-0B0B0C?style=for-the-badge&logo=css3&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/JavaScript-0B0B0C?style=for-the-badge&logo=javascript&logoColor=FF2D20" />
 
-## 05 / EXPLORE MY PORTFOLIO
+<br>
 
-### [ALEJANDRACORREA01.GITHUB.IO →](https://alejandracorrea01.github.io/)
+<img src="https://img.shields.io/badge/Figma-0B0B0C?style=for-the-badge&logo=figma&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/Photoshop-0B0B0C?style=for-the-badge&logo=adobephotoshop&logoColor=FF2D20" />
 
----
+</p>
 
-## 06 / CONNECT
-
-[GitHub](https://github.com/alejandracorrea01) ·
-[Figma](https://www.figma.com/files/team/1609404101821284166/user/1609298471288750504?fuid=1609298471288750504)
+<br>
 
 ---
 
-`aleja@digital-world:~$ whoami`
+<h2 align="center">Selected Work</h2>
 
-> digital creator  
-> designer  
-> student  
-> always learning
+<p align="center">
+
+<a href="https://github.com/alejandracorrea01/Archivo-Sonoro-1">
+  <img src="https://img.shields.io/badge/ARCHIVO%20SONORO-0B0B0C?style=for-the-badge&logo=github&logoColor=FF2D20" />
+</a>
+
+<a href="https://github.com/alejandracorrea01/taller-git">
+  <img src="https://img.shields.io/badge/TALLER%20GIT-0B0B0C?style=for-the-badge&logo=github&logoColor=FF2D20" />
+</a>
+
+</p>
+
+<br>
 
 ---
 
-**GOOD IDEAS TAKE TIME.**
+<p align="center">
 
-`ALEJANDRA CORREA · BOGOTÁ, CO`
+<a href="https://github.com/alejandracorrea01">
+  <img src="https://img.shields.io/badge/GITHUB-0B0B0C?style=for-the-badge&logo=github&logoColor=FF2D20" />
+</a>
+
+<a href="https://www.figma.com/files/team/1609404101821284166/user/1609298471288750504?fuid=1609298471288750504">
+  <img src="https://img.shields.io/badge/FIGMA-0B0B0C?style=for-the-badge&logo=figma&logoColor=FF2D20" />
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <sub>GOOD IDEAS TAKE TIME.</sub>
+</p>
