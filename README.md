@@ -5,22 +5,14 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DIGITAL%20CREATOR-0B0B0C?style=for-the-badge&labelColor=0B0B0C&color=FF2D20" />
-</p>
-
-<br>
-
-<!-- GITHUB SNAKE -->
-
-<p align="center">
-  <img src="./assets/github-snake-red.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/alejandracorrea01/alejandracorrea01/output/github-snake-red.svg" width="100%" />
 </p>
 
 <br>
 
 ---
 
-<h2 align="center">About me</h2>
+<h3 align="center">ABOUT ME</h3>
 
 <p align="center">
   Digital Creation student at Universidad El Bosque.
@@ -32,7 +24,7 @@
 
 ---
 
-<h2 align="center">Technologies</h2>
+<h3 align="center">TECHNOLOGIES</h3>
 
 <p align="center">
 
@@ -51,7 +43,7 @@
 
 ---
 
-<h2 align="center">Selected Work</h2>
+<h3 align="center">SELECTED WORK</h3>
 
 <p align="center">
 
